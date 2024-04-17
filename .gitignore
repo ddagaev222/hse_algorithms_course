@@ -3,3 +3,6 @@ build/
 
 # Test
 test/
+
+# VS Code
+.vscode/
